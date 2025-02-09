@@ -1,39 +1,4 @@
-The Project Gutenberg eBook, Medical Inquiries and Observations, Vol. II
-(of 4), by Benjamin Rush
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: Medical Inquiries and Observations, Vol. II (of 4)
-       The Second Edition, Revised and Enlarged by the Author
-
-
-Author: Benjamin Rush
-
-
-
-Release Date: February 26, 2019  [eBook #58860]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-
-***START OF THE PROJECT GUTENBERG EBOOK MEDICAL INQUIRIES AND
-OBSERVATIONS, VOL. II (OF 4)***
-
-
-E-text prepared by MWS, Jens Nordmann, Bryan Ness, and the Online
-Distributed Proofreading Team (http://www.pgdp.net) from page images
-generously made available by Internet Archive (https://archive.org)
+*** START OF THE PROJECT GUTENBERG EBOOK 58860 ***
 
 
 
@@ -558,7 +523,7 @@ action of these causes upon morals in the human species, will, I hope,
 render unnecessary the arguments that might be drawn from that quarter.
 
 I am aware, that in venturing upon this subject, I step upon untrodden
-ground. I feel as Æneas did, when he was about to enter the gates of
+ground. I feel as Ã†neas did, when he was about to enter the gates of
 Avernus, but without a sybil to instruct me in the mysteries that are
 before me. I foresee, that men who have been educated in the mechanical
 habits of adopting popular or established opinions will revolt at the
@@ -569,7 +534,7 @@ commend that boldness of inquiry, that prompted me to broach them.
 I shall begin with an attempt to supply the defects of nosological
 writers, by naming the partial or weakened action of the moral faculty,
 MICRONOMIA. The total absence of this faculty, I shall call ANOMIA. By
-the law, referred to in these new genera of vesaniæ, I mean the law of
+the law, referred to in these new genera of vesaniÃ¦, I mean the law of
 nature written in the human heart, and which I formerly quoted from the
 writings of St. Paul.
 
@@ -849,7 +814,7 @@ dramatic representation; who could resist, or describe their effects?
 14. ODOURS of various kinds have been observed to act in the most
 sensible manner upon the moral faculty. Brydone tells us, upon the
 authority of a celebrated philosopher in Italy, that the peculiar
-wickedness of the people who live in the neighbourhood of Ætna and
+wickedness of the people who live in the neighbourhood of Ã†tna and
 Vesuvius, is occasioned chiefly by the smell of the sulphur and of the
 hot exhalations which are constantly discharged from those volcanos.
 Agreeable odours seldom fail to inspire serenity, and to compose the
@@ -1061,7 +1026,7 @@ man justly remarks, that "By the sadness of the countenance, the heart
 is made better."
 
 A late French writer, in his prediction of events that are to happen
-in the year 4000, says, "That mankind in that æra shall be so far
+in the year 4000, says, "That mankind in that Ã¦ra shall be so far
 improved by religion and government, that the sick and the dying shall
 no longer be thrown, together with the dead, into splendid houses, but
 shall be relieved and protected in a connection with their families
@@ -1246,7 +1211,7 @@ philosophy and Christianity dwell alike in the mind of the Deity, and
 reason and religion are equally the offspring of his goodness. They
 must, therefore, stand and fall together. By reason, in the present
 instance, I mean the power of judging of truth, as well as the power of
-comprehending it. Happy æra! when the divine and the philosopher shall
+comprehending it. Happy Ã¦ra! when the divine and the philosopher shall
 embrace each other, and unite their labours for the reformation and
 happiness of mankind!
 
@@ -1316,7 +1281,7 @@ I shall begin by remarking,
 I. That the pulmonary consumption is induced by predisposing debility.
 
 This I infer, 1st, From the remote and exciting causes which produce
-it. The remote causes are pneumony, catarrh, hæmoptysis, rheumatism,
+it. The remote causes are pneumony, catarrh, hÃ¦moptysis, rheumatism,
 gout, asthma, scrophula, chronic diseases of the stomach, liver, and
 kidneys, nervous and intermitting fevers, measles, repelled humours from
 the surface of the body, the venereal disease, obstructed menses, sudden
@@ -1465,9 +1430,9 @@ the action of the remote causes formerly enumerated, the fluids are
 determined to the weakest part of the body. Hence effusions of serum
 or blood take place in the lungs. When serum is effused, a pituitous
 or purulent expectoration alone takes place; when blood is discharged,
-a disease is produced which has been called hæmoptysis. An effusion of
+a disease is produced which has been called hÃ¦moptysis. An effusion of
 blood in the brain, brought on by the operation of general debility,
-has been called by Dr. Hoffman, with equal propriety, a hæmorrhage of
+has been called by Dr. Hoffman, with equal propriety, a hÃ¦morrhage of
 the brain. The effusion of blood in the lungs, in consequence of the
 rupture of a blood-vessel, is less fatal than the same accident when it
 occurs in the brain, only because the blood in the former case is more
@@ -1518,7 +1483,7 @@ to treat of the cure of this disease.
 
 Let us now enquire how far the principles I have laid down will apply
 to the supposed causes of consumption. These causes have been said to
-be, an abscess in the lungs, hæmoptysis, tubercles, without and with
+be, an abscess in the lungs, hÃ¦moptysis, tubercles, without and with
 ulcers, catarrh, hereditary diathesis, contagion, and the matter of
 cutaneous eruptions, or sores repelled, and thrown upon the lungs. I
 shall make a few observations upon each of them.
@@ -1559,13 +1524,13 @@ not more subject to consumptions than other labouring people. Hence "a
 miller's cough" is proverbial in some places, to denote a cough of long
 continuance without danger.
 
-2. The hæmoptysis is either a local disease, or it is the effect
+2. The hÃ¦moptysis is either a local disease, or it is the effect
 of general debility of the whole system. When it is local, or when
 it is the effect of causes which induce a _temporary_ or _acute_
 debility only in the system, it is seldom followed by consumption. The
 accidental discharge of blood from the lungs, from injuries, and from
 an obstruction of the menses in women is of this kind. Many persons are
-affected by this species of hæmorrhage once or twice in their lives,
+affected by this species of hÃ¦morrhage once or twice in their lives,
 without suffering any inconvenience from it afterwards. I have met with
 several cases in which it has occurred for many years every time the
 body was exposed to any of the causes which induce _sudden_ debility,
@@ -1573,7 +1538,7 @@ and yet no consumption has followed it. The late king of Prussia
 informed Dr. Zimmerman that he had been frequently attacked by it during
 his seven years war, and yet he lived, notwithstanding, above twenty
 years afterwards without any pulmonary complaints. It is only in persons
-who labour under _chronic_ debility, that a hæmoptysis is necessarily
+who labour under _chronic_ debility, that a hÃ¦moptysis is necessarily
 followed by consumption.
 
 3. I yield to the popular mode of expression when I speak of a
@@ -1698,7 +1663,7 @@ contagious.
 a family. I was lately consulted by a young physician from Maryland,
 who informed me, that two of his brothers, in common with himself,
 were afflicted with epilepsy. Madness, scrophula, and a disposition
-to hæmorrhage, often affect, in succession, several branches of the
+to hÃ¦morrhage, often affect, in succession, several branches of the
 same family; and who will say that any one of the above diseases is
 propagated by contagion?
 
@@ -1793,7 +1758,7 @@ a local nature. It is only when it is accompanied with debility of
 the whole system, that it ends in a consumption. Mr. John Harrison,
 of the Northern Liberties, died of this disease under my care, in the
 year 1801, in consequence of the discharge of pus from an ulcer which
-followed a hæmorrhage from the trachea being suddenly suppressed. I
+followed a hÃ¦morrhage from the trachea being suddenly suppressed. I
 have seen another case of the same kind in a lady in this city, in the
 year 1797. Dr. Spence, of Dumfries, in Virginia, in a letter which I
 received from him in June, 1805, describes a case then under his care,
@@ -2121,7 +2086,7 @@ the one which I have delivered, repeated bleedings appear to be equally
 necessary and useful.
 
 I have seen two cases of inflammatory consumption, attended by a
-hæmorrhage of a quart of blood from the lungs. I agreed at first with
+hÃ¦morrhage of a quart of blood from the lungs. I agreed at first with
 the friends of these patients in expecting a rapid termination of
 their disease in death, but to the joy and surprise of all connected
 with them, they both recovered. I ascribed their recovery wholly to
@@ -2294,7 +2259,7 @@ complaints of Dr. Fothergill may be against the use of balsams in the
 inflammatory and mixed states of consumption, they appear to be not only
 safe, but useful likewise, in mitigating the symptoms of weak morbid
 action in the arterial system. I have therefore frequently prescribed
-opium, the balsam of copaivæ, of Peru, the oil of amber, and different
+opium, the balsam of copaivÃ¦, of Peru, the oil of amber, and different
 preparations of turpentine and tar, in moderate doses, with obvious
 advantage. Garlic, elixir of vitriol, the juice of dandelion, a strong
 tea made of horehound, and a decoction of the inner bark of the wild
@@ -2479,7 +2444,7 @@ for a while the credit of fumigations. I have tried them, but without
 much permanent effect. I think I have seen the pain in the breast
 relieved by receiving the vapour from a mixture of equal parts of tar,
 bran, and boiling water into the lungs. The sulphureous and saline air
-of Stabiæ, between Mount Vesuvius and the Mediterranean Sea, and the
+of StabiÃ¦, between Mount Vesuvius and the Mediterranean Sea, and the
 effluvia of the pine forests of Lybia, were supposed, in ancient times,
 to be powerful remedies in consumptive complaints; but it is probable,
 the exercise used in travelling to those countries, contributed chiefly
@@ -2501,7 +2466,7 @@ opium may be taken with safety and advantage.
 favourable to the abatement of the cough. These positions should be
 carefully sought for, and the body kept in that which procures the
 most freedom from coughing. I have heard of an instance in which a
-cough, which threatened a return of the hæmorrhage from the lungs, was
+cough, which threatened a return of the hÃ¦morrhage from the lungs, was
 perfectly composed for two weeks, by keeping the patient nearly in
 one posture in bed; but I have known more cases in which relief from
 coughing was to be obtained only by an erect posture of the body.
@@ -2538,7 +2503,7 @@ relapsed, and died, in consequence of bursting a blood-vessel in her
 lungs, by a sudden fit of laughter.
 
   [28] An Account of the Effects of Common Salt in the Cure of
-       Hæmoptysis.
+       HÃ¦moptysis.
 
 12. Are there any advantages to be derived from the excitement of
 certain PASSIONS in the treatment of consumptions? Dr. Blane tells us,
@@ -3104,7 +3069,7 @@ following ways:
 3. A rupture of an abscess.
 
 4. A rupture of a large blood-vessel in the lungs, attended with
-external or internal hæmorrhage. _Sudden_ and _unexpected_ death in a
+external or internal hÃ¦morrhage. _Sudden_ and _unexpected_ death in a
 consumption is generally induced by this, or the preceding cause.
 
 5. Madness. The cough and expectoration cease with this disease. It
@@ -3188,7 +3153,7 @@ That debility should, under certain circumstances, dispose to excessive
 action, and that excessive action should occur in one part of the body,
 at the same time that debility prevailed in every other, are abundantly
 evident from the history and phenomena of many diseases. Inflammatory
-fever, active hæmorrhages, tonic gout, asthma, apoplexy, and palsy,
+fever, active hÃ¦morrhages, tonic gout, asthma, apoplexy, and palsy,
 however much they are accompanied by excessive action in the arterial
 system, are always preceded by original debility, and are always
 accompanied by obvious debility in every other part of the system.
@@ -3240,7 +3205,7 @@ paroxysm of the fever.
 evidently of an inflammatory nature_, particularly pneumony, rheumatism,
 and gout.
 
-5. Spontaneous _hæmorrhages_ from the lungs, hæmorrhodial vessels, and
+5. Spontaneous _hÃ¦morrhages_ from the lungs, hÃ¦morrhodial vessels, and
 nose, cases of which shall be mentioned hereafter, when we come to treat
 of the cure of dropsies.
 
@@ -3298,7 +3263,7 @@ morning, in stooping to buckle his shoes, he bursted a blood-vessel
 in his lungs, from which he lost a quart of blood; in consequence of
 which, both the swellings and the hoarseness went off gradually, and
 he continued well two years afterwards. I have known one case in which
-spontaneous hæmorrhages from the hæmorrhodial vessels, and from the
+spontaneous hÃ¦morrhages from the hÃ¦morrhodial vessels, and from the
 nose, suddenly reduced universal dropsical swellings. In this patient
 there had been an uncommon tension and fulness in the pulse.
 
@@ -3826,7 +3791,7 @@ about which physicians have been so long divided.
 3. If a state of great morbid action in the arteries has been
 demonstrated in dropsies, both from its symptoms and remedies, and if
 these dropsies are evidently produced by previous debility, who will
-deny the existence of a similar action in certain hæmorrhages, in
+deny the existence of a similar action in certain hÃ¦morrhages, in
 gout, palsy, apoplexy, and madness, notwithstanding they are all the
 offspring of predisposing debility? And who will deny the efficacy of
 bleeding, purges, and other debilitating medicines in certain states
@@ -3973,10 +3938,10 @@ sometimes, however, confined to one side of the head, and, in that case,
 when the posture of the body is erect, the head often inclines to the
 side affected. We frequently find, also, that the head-ach alternates
 with the affection of the stomach; the vomiting being less troublesome
-when the pain is most violent, and _vice versâ_; other parts of the body
+when the pain is most violent, and _vice versÃ¢_; other parts of the body
 are likewise subject to temporary attacks of pain, viz. the extremities,
 or the bowels, but more constantly the back of the neck, and between the
-scapulæ; in all such cases the head is more free from uneasiness.
+scapulÃ¦; in all such cases the head is more free from uneasiness.
 
 "The patient dislikes the light at this period; cries much, sleeps
 little, and when he does sleep, he grinds his teeth, picks his nose,
@@ -4085,7 +4050,7 @@ The sudden deaths which we sometimes observe in infancy, I believe, are
 often produced by this disease. Dr. Stoll is of the same opinion. He
 calls it, when it appears in this form, "apoplexia infantalis[46]."
 
-  [46] Prælectiones, vol. I. p. 254.
+  [46] PrÃ¦lectiones, vol. I. p. 254.
 
 In the month of March, 1771, I obtained a gill of water from the
 ventricles of the brain of a negro girl of nine years of age, who died
@@ -4211,7 +4176,7 @@ pulmonary consumption, by debilitating causes which act primarily on
 the whole system. The peculiar size and texture of the brain seem to
 invite the inflammation and effusions which follow debility, to that
 organ in childhood, just as the peculiar structure and situation of
-the lungs invite the same morbid phænomena to them, after the body has
+the lungs invite the same morbid phÃ¦nomena to them, after the body has
 acquired its growth, in youth and middle life. In the latter stage which
 has been mentioned, the internal dropsy of the brain partakes of some
 of the properties of apoplexy. It differs from it in being the effect
@@ -4776,9 +4741,9 @@ instances of it have occurred in this city since the year 1793.
 
 III. The gout affects most of the viscera. In the brain it produces
 head-ach, vertigo, coma, apoplexy, and palsy. In the lungs it produces
-pneumonia vera, notha, asthma, hæmoptysis, pulmonary consumption, and
+pneumonia vera, notha, asthma, hÃ¦moptysis, pulmonary consumption, and
 a short hecking cough, first described by Dr. Sydenham. In the throat
-it produces inflammatory angina. In the uterus it produces hæmorrhagia
+it produces inflammatory angina. In the uterus it produces hÃ¦morrhagia
 uterina. It affects the kidneys with inflammation, strangury, diabetes,
 and calculi. The position of the body for weeks or months on the
 back, by favouring the compression of the kidneys by the bowels, is
@@ -4796,7 +4761,7 @@ of my patient. The neck of the bladder sometimes becomes the seat of
 the gout. It discovers itself by spasm, and a suppression of urine in
 some cases, and occasionally by a habitual discharge of mucus through
 the urethra. This disease has been called, by Lieutaud, "a catarrh of
-the bladder." Dr. Stoll describes it, and calls it "hæmorrhoids of
+the bladder." Dr. Stoll describes it, and calls it "hÃ¦morrhoids of
 the bladder." But of all the viscera, the liver suffers most from the
 gout. It produces in it inflammation, suppuration, melena, schirrus,
 gall-stones, jaundice, and a habitual increased secretion and excretion
@@ -4930,10 +4895,10 @@ point in which they emit the sensation of pain.
 
 Under this head I shall include an account of the mucous discharge
 from the urethra, which sometimes takes place in an attack of the gout,
-and which has ignorantly been ascribed to a venereal gonorrhæa. There
+and which has ignorantly been ascribed to a venereal gonorrhÃ¦a. There
 is a description of this symptom of the gout in the 3d volume of the
 Physical and Literary Essays of Edinburgh, by Dr. Clark. It was first
-taken notice of by Sauvages by the name of "gonorrhæa podagrica," in
+taken notice of by Sauvages by the name of "gonorrhÃ¦a podagrica," in
 a work entitled Pathologia Methodica. I have known three instances of
 it in this city. In the visits which the gout pays to the genitals,
 it sometimes excites great pain in the testicles. Dr. Whytt mentions
@@ -4959,12 +4924,12 @@ In all the cases I have known of it, I believe it was derived from the
 usual causes of the gout.
 
 VII. There are many records in the annals of medicine of the gout
-affecting the skin. The erysipelas, gangrene, and petechiæ are its
+affecting the skin. The erysipelas, gangrene, and petechiÃ¦ are its
 acute, and tetters, and running sores are its usual chronic forms when
 it appears in this part of the body. I attended a patient with the late
 Dr. Hutchinson, in whom the whole calf of one leg was destroyed by a
 mortification which succeeded the gout. Dr. Alexander, of Baltimore,
-informed me that petechiæ were among the last symptoms of this disease
+informed me that petechiÃ¦ were among the last symptoms of this disease
 in the Rev. Mr. Oliver, who died in the town of Baltimore, about two
 years ago. In the disposition of the gout to attack external parts, it
 sometimes affects the eyes and ears with the most acute and distressing
@@ -5078,7 +5043,7 @@ fit" of the gout as a cure for other diseases, resembles the practice
 of school boys who swallow the stones of cherries to assist their
 stomachs in digesting that delicate fruit. It is no more necessary to
 produce the gout in the feet, in order to cure it, than it is to wait
-for, or encourage abscesses or natural hæmorrhages, to cure a fever.
+for, or encourage abscesses or natural hÃ¦morrhages, to cure a fever.
 The practice originated at a time when morbific matter was supposed to
 be the cause of the gout, but it has unfortunately continued under the
 influence of theories which have placed the seat of the disease in the
@@ -5241,7 +5206,7 @@ Philadelphia died a few years ago, in the 96th year of his age, who had
 been subject to the strangury the greatest part of his life. His only
 remedy for it was bleeding. He lived free from the gravel and stone;
 and died, or rather appeared to fall asleep in death, from old age. Dr.
-Haller mentions a similar case in his Bibliotheca Medicinæ, in which
+Haller mentions a similar case in his Bibliotheca MedicinÃ¦, in which
 bleeding had the same happy effects.
 
 3. It prevents the system from wearing itself down by fruitless pain and
@@ -5493,7 +5458,7 @@ the cordial does not produce its intended effects, in two or three
 hours. If all the different forms of ardent spirits which have been
 mentioned fail of giving relief,
 
-5. From 30 drops to a tea spoonful of _æther_ should be given in any
+5. From 30 drops to a tea spoonful of _Ã¦ther_ should be given in any
 agreeable vehicle. Also,
 
 6. _Volatile alkali._ From five to ten grains of this medicine should be
@@ -5700,7 +5665,7 @@ terror have been the happy means of overcoming a predisposition to the
 gout. A gentleman from one of the West-India islands, who had been for
 many years afflicted with the gout, was perfectly cured of it by living
 a year or two upon the temperate diet of the jail in this city, into
-which he was thrown for debt by one of his creditors. A large hæmorrhage
+which he was thrown for debt by one of his creditors. A large hÃ¦morrhage
 from the foot, inflamed and swelled by the gout, accidentally produced
 by a penknife which fell upon it, effected in an Irish gentleman
 a lasting cure of the disease. Hildanus mentions the history of a
@@ -6466,7 +6431,7 @@ by the loss of 120 ounces of blood.
 Dr. Tilton cured this disease in a woman in the Delaware state by very
 copious bleeding. The remedy was suggested to the doctor by an account
 taken from a London magazine of a dreadful hydrophobia being cured by an
-accidental and profuse hæmorrhage from the temporal artery[84].
+accidental and profuse hÃ¦morrhage from the temporal artery[84].
 
   [84] Medical Essays of Edinburgh, vol. i. p. 226.
 
@@ -6718,7 +6683,7 @@ bids fair to arrest its tendency to death, by removing the symptom which
 generally induces it, and thereby giving time for other remedies, which
 have hitherto been unsuccessful, to produce their usual salutary effects
 in similar diseases[87]. In removing faintness, in drawing off the water
-in ischuria, in composing convulsions, and in stopping hæmorrhages in
+in ischuria, in composing convulsions, and in stopping hÃ¦morrhages in
 malignant fever, we do not cure the disease, but we prevent death, and
 thereby gain time for the use of the remedies which are proper to cure
 it. Laryngotomy, according to Fourcroy's advice, in diseases of the
@@ -6729,7 +6694,7 @@ order to save life, it will not offer near so much violence to humanity
 as many other operations. We cut through a large mass of flesh into the
 bladder in extracting a stone. We cut into the cavity of the thorax in
 the operation for the empyema. We perforate the bones of the head in
-trepanning; and we cut through the uterus, in performing the Cæsarian
+trepanning; and we cut through the uterus, in performing the CÃ¦sarian
 operation, in order to save life. The operation of laryngotomy is much
 less painful and dangerous than any of them; and besides permitting
 the patient to breathe and to swallow, it is calculated to serve the
@@ -6790,13 +6755,13 @@ surgeon render it impossible to use the knife.
 
 The weather in December, 1788, and in January, 1789, was variable, but
 seldom very cold. On the first of February, 1789, at six o'clock in the
-morning, the mercury in Fahrenheit's thermometer fell 5° below 0, in the
+morning, the mercury in Fahrenheit's thermometer fell 5Â° below 0, in the
 city of Philadelphia. At twenty miles from the city, on the Schuylkill,
-it fell 12° below 0, at the same hour. On the 19th and 20th of this
+it fell 12Â° below 0, at the same hour. On the 19th and 20th of this
 month, there fell a quantity of snow, the depth of which, upon an
 average, was supposed to be about eight or ten inches. On the 23d, 24th,
 25th, and 27th, the weather was very cold. The mercury fluctuated during
-these days between 4° and 10° above 0.
+these days between 4Â° and 10Â° above 0.
 
 In the intervals between these cold days, the weather frequently
 moderated, so that the Delaware was frozen and thawed not less than
@@ -6984,7 +6949,7 @@ in some with death. I think it was much more fatal than in the years
 1773 and 1783, probably owing to the variable weather in the winter,
 and the coldness and dampness of the succeeding spring. Dr. Huxham
 says, he once saw the measles attended with peculiar mortality, during
-a late cold and damp spring in England. It was much more fatal (cæteris
+a late cold and damp spring in England. It was much more fatal (cÃ¦teris
 paribus) to adults than to young people.
 
 The remedies I used were,
@@ -7155,7 +7120,7 @@ sometimes continued two or three weeks.
 
 In a few persons, the fever terminated in a tedious and dangerous typhus.
 
-In several pregnant women it produced uterine hæmorrhages and abortions.
+In several pregnant women it produced uterine hÃ¦morrhages and abortions.
 
 It affected adults of both sexes alike. A few old people escaped it. It
 passed by children under eight years old with a few exceptions. Out of
@@ -7262,7 +7227,7 @@ The following winter was unusually mild, insomuch that the navigation
 of the Delaware was not interrupted during the whole season, only from
 the 7th to the 24th of February. The weather on the 3d and 4th days of
 March was very cold, and on the 8th and 9th days of the same month,
-the mercury in Fahrenheit's thermometer stood at 4° at 7 o'clock in
+the mercury in Fahrenheit's thermometer stood at 4Â° at 7 o'clock in
 the morning. On the 10th and 11th, there fell a deep snow. The weather
 during the remaining part of the month was cold, rainy, and variable. It
 continued to be variable during the month of April. About the middle of
@@ -7558,7 +7523,7 @@ mind in many people, and more especially in invalids, to be intimately
 connected with the presence or absence of the rays of the sun. The
 well-known pedestrian traveller, Mr. Stewart, in one of his visits to
 this city, informed me, that he had spent a summer in Lapland, in the
-latitude of 69°, during the greatest part of which time the sun was
+latitude of 69Â°, during the greatest part of which time the sun was
 seldom out of sight. He enjoyed, he said, during this period, uncommon
 health and spirits, both of which he ascribed to the long duration, and
 invigorating influence of light. These facts will surprise us less when
@@ -8021,7 +7986,7 @@ of the activity of the understanding and passions in dreams; and hence
 we dream more in our morning slumbers, when the bladder is full, than we
 do in the beginning or middle of the night.
 
-6. The fæces exert a constant stimulus upon the bowels in sleep. This
+6. The fÃ¦ces exert a constant stimulus upon the bowels in sleep. This
 is so considerable as to render it less profound when they have been
 accumulated for two or three days, or when they have been deposited in
 the extremity of the alimentary canal.
@@ -8052,7 +8017,7 @@ dead the succeeding morning, are said most commonly to die of this
 disease.
 
   [92] A fever was excited in Cinna the poet, in consequence of his
-       dreaming that he saw Cæsar, the night after he was assassinated,
+       dreaming that he saw CÃ¦sar, the night after he was assassinated,
        and was invited to accompany him to a dreary place, to which
        he pointed, in order to sup with him. Convulsions and other
        diseases, I believe, are often excited in the night, by
@@ -8081,7 +8046,7 @@ child is accustomed to it, it is strange that a cradle should ever have
 been denied to it after it comes into the world.
 
   [93] "Novum f[oe]tum a seminis masculi _stimulo_ vitam
-       concepisse."--_Elementa Physiologiæ_, vol. viii. p. 177.
+       concepisse."--_Elementa PhysiologiÃ¦_, vol. viii. p. 177.
 
 II. In infants there is an absence of many of the stimuli which support
 life. Their excretions are in a great measure deficient in acrimony, and
@@ -8211,7 +8176,7 @@ and stimulating. The stomach of the celebrated Parr, who died in the
 one hundred and fiftieth year of his age, was found full of strong,
 nourishing aliment.
 
-2. By the stimulus of the fæces, which are frequently retained for five
+2. By the stimulus of the fÃ¦ces, which are frequently retained for five
 or six days in the bowels of old people.
 
 3. By the stimulus of fluids rendered preternaturally acrid by age.
@@ -8649,7 +8614,7 @@ circumstances of climate. In cold countries, where the earth yields
 its increase with reluctance, and where vegetable aliment is scarce,
 the want of the stimulus of distension which that species of food is
 principally calculated to produce is sought for in that of ardent
-spirits. To the southward of 40°, a substitute for the distension from
+spirits. To the southward of 40Â°, a substitute for the distension from
 mild vegetable food is sought for in onions, garlic, and tobacco. But
 further, a uniform climate calls for more of these artificial stimuli
 than a climate that is exposed to the alternate action of heat and
@@ -8675,7 +8640,7 @@ and happy state of Connecticut, in which republican liberty has existed
 above one hundred and fifty years, than in any other country upon the
 surface of the globe.
 
-  [99] Haller's Elements Physiologiæ, vol. viii. p. 2. p. 107.
+  [99] Haller's Elements PhysiologiÃ¦, vol. viii. p. 2. p. 107.
 
 It remains now to mention certain mental stimuli which act nearly alike
 in the production of animal life, upon the individuals of all the
@@ -8893,7 +8858,7 @@ will be a sufficient answer to this question to remark, that heat and
 cold are relative terms, and that different animals, according to
 their organization, require very different degrees of heat for their
 existence. Thirty-two degrees of it are probably as stimulating to some
-of these cold blooded animals (as they are called), as 70° or 80° are to
+of these cold blooded animals (as they are called), as 70Â° or 80Â° are to
 the human body.
 
 It might afford additional support to the doctrine of animal life, which
@@ -9156,366 +9121,4 @@ Partly repeated chapter headings have been deleted.
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK MEDICAL INQUIRIES AND OBSERVATIONS,
-VOL. II (OF 4)***
-
-
-******* This file should be named 58860-8.txt or 58860-8.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/5/8/8/6/58860
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58860 ***
